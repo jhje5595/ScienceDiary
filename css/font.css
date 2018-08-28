@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Bm';
+  src: url(../BM/BMJUA_ttf.ttf) format('truetype');
+}
+@font-face {
+font-family: 'Bm_1';
+src: url(../BM/BMYEONSUNG_ttf.ttf) format('truetype');
+}
+#Bm_1{
+  font-family:Bm_1;
+}
+#Bm{
+  font-family:Bm;
+}
